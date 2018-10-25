@@ -1,0 +1,64 @@
+
+[
+{
+    "id": 1,
+    "name": "Hilary Duff",
+    "image": "./img/HilaryDuff.jpg"
+  },
+  {
+
+    "id": 2,
+    "name": "Beyonce",
+    "image": "./img/Beyonce.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Blake Lively.jpg",
+    "image": "./img/BlakeLively.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cardi B",
+    "image": "./img/CardiB.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ewan Mcgregor",
+    "image": "./img/EwanMcgregor.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jennifer Aniston",
+    "image": "./img/JenniferAniston.jpg"
+  },
+  {
+    "id": 7,
+    "name": "JLo",
+    "image": "./img/JLo.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jude Law",
+    "image": "./img/JudeLaw.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kate Winslet",
+    "image": "./img/KateWinslet.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Leonardo DiCaprio",
+    "image": "./img/LeonardoDiCaprio.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Lucy Hale",
+    "image": "./img/LucyHale.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Selena Gomez",
+    "image": "./img/SelenaGomez.jpg"
+  }
+]
