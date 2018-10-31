@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import image from "./public/img";
-import Wrapper from "../components/Wrapper";
-import FriendCard from "../components/FriendCard";
-import Title from "../components/Title";
-import CelebCard from "../components/CelebCard";
+// import Wrapper from "../components/Wrapper";
+// import FriendCard from "../components/FriendCard";
+// import Title from "../components/Title";
+// import CelebCard from "../components/CelebCard";
 
 class App extends Component {
 
